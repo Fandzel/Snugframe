@@ -11,7 +11,7 @@ As you will notice the program is themed, this is to enable me to improve my des
 ## Usage
 Run `SnugFrame.py`
 
-Use the files provided in 'Examples' to test the program
+You can use the files provided in 'Examples' to test the program
 
 ## Code quality
 This is a project I created as part of my journey to learn Python.
